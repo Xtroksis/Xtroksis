@@ -1,26 +1,38 @@
 # Привет, я Xtroksis 👋
-### Fullstack-разработчик (Python & Frontend)
+### Fullstack-разработчик & Инженер-программист
 
-Я создаю полезные цифровые продукты: от Telegram-ботов с админ-панелями до современных веб-приложений на React.
+Специализируюсь на создании веб-приложений, Telegram-ботов и интеграций со сложными API. Не боюсь лезть в системное программирование и мобильную разработку.
+
+---
 
 ### 🛠 Мой стек технологий:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Frontend & Web:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🚀 Мои лучшие проекты:
-*   **[Forma Studio](https://github.com/Xtroksis/forma-studio)** — Современный лендинг для архитектурного бюро с интерактивным калькулятором смет и CRM-панелью. *(React, Vite)*. [Посмотреть сайт](https://forma-studio-site.netlify.app)
-*   **[Kicks Vault TMA](https://github.com/Xtroksis/kicks-vault-tma)** — Telegram Mini App для поиска и заказа обуви. *(React, TMA)*.
-*   **[Lucid Path](https://github.com/Xtroksis/lucid-path)** — Сайт поиска музыки с интеграцией API. *(JavaScript)*.
-*   **[Spark](https://github.com/Xtroksis/Spark)** — Демо-бот для автоматизации заявок. *(Python, pyTelegramBotAPI)*.
+**Backend & Scripts:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📈 GitHub Статистика:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xtroksis&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
+**Изучаю / Дополнительно:**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+---
+
+### 🧠 Что я умею помимо кода:
+*   Проектирую архитектуру ботов и веб-приложений с нуля.
+*   Разбираюсь в алгоритмах и структурах данных (привет, C++).
+*   Понимаю принципы ООП и чистого кода.
+*   Быстро адаптируюсь к новым технологиям (сейчас смотрю в сторону Kotlin и мобильной разработки).
+
+---
 
 ### 📫 Как со мной связаться:
+По вопросам сотрудничества, фриланса или интересных проектов пишите в Telegram.
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ptotplll)
